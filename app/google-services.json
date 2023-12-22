@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "688040729591",
+    "firebase_url": "https://webrtcjava-82732-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webrtcjava-82732",
+    "storage_bucket": "webrtcjava-82732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688040729591:android:7153a5736ac863a9d32cf2",
+        "android_client_info": {
+          "package_name": "com.example.javawebrtcyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2CB8xxErexORpBwPIvfrmF6s2mA5s7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
